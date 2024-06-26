@@ -38,4 +38,9 @@ out/
 
 # .env #
 .env
+*.class
+*.jar
+*.war
+/.idea/
+/target/
 
