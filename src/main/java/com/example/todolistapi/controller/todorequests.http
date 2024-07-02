@@ -1,1 +1,8 @@
-GET http://localhost:8080/todos
+### Add a Todo Item
+POST http://localhost:8080/todos
+Content-Type: application/json
+
+{
+  "title": "Sample Todo",
+  "description": "This is a sample todo item"
+}
