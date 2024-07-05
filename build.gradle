@@ -32,3 +32,7 @@ dependencies {
 tasks.named('test') {
 	useJUnitPlatform()
 }
+// build.gradle
+dependencies {
+	implementation 'org.springdoc:springdoc-openapi-starter-webmvc-ui:2.0.2'
+}
