@@ -1,5 +1,3 @@
-Sure! Here's a simplified `README.md` file that describes what the project is about and its key components:
-
 ```markdown
 # Todo List API
 
@@ -62,5 +60,3 @@ This project is licensed under the MIT License.
 
 For questions or issues, please contact [Mohamad Nasser](https://github.com/MohamadNasser1572).
 ```
-
-This `README.md` provides an overview of the project, its components, and basic instructions on how to get started. You can expand or modify it based on additional details or specific needs of your project.
